@@ -21,6 +21,7 @@ Qiitaに書いてます。
 
 # 実行方法
 ①モデル　Vector_Control_Lib.slx　を開きます。
+
 ②param.m　を実行します。
 `isEmbedded = swichSimulationMode('Emb');` とすることでコード生成モードとなります。
 `isEmbedded = swichSimulationMode('Sim');` とすることでシミュレーションモードとなります。
