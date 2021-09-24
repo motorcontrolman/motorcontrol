@@ -24,6 +24,7 @@ Qiitaに書いてます。
 `isEmbedded = swichSimulationMode('Sim');` とすることでシミュレーションモードとなります。
 
 ③コード生成モードの場合、ビルド、配布および起動ボタンを押してコード生成します。
+
 ![image](https://user-images.githubusercontent.com/53783776/134696570-d77da93e-80f2-44aa-81d8-d38442561d88.png)
 
 シミュレーションモードの場合は通常のシミュレーション実行を行います。
