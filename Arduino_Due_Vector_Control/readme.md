@@ -14,7 +14,9 @@ Arduino Dueと[TIの3相GANインバータ](https://www.tij.co.jp/tool/jp/BOOSTX
 
 # ピン接続
 Qiitaに書いてます。
+
 マイコン側　https://qiita.com/motorcontrolman/items/ef6670f9dff0f63cdc50
+
 インバータ側　https://qiita.com/motorcontrolman/items/95560fd38545637fad2a
 
 # 実行方法
