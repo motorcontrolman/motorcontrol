@@ -10,7 +10,7 @@ Arduino Dueと[TIの3相GANインバータ](https://www.tij.co.jp/tool/jp/BOOSTX
 5. Simulink Support Package for Arduino Hardware
 6. MATLAB Support for MinGW-w64 C/C++ Compiler
 
-(上記、(平田先生のGit)[https://github.com/mhirata-dev/arduino_due_motor_control_simulink]をパ…参考に記載しました。)
+(上記、[平田先生のGit](https://github.com/mhirata-dev/arduino_due_motor_control_simulink)をパ…参考に記載しました。)
 
 # ピン接続
 Qiitaに書いてます。
